@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\Kool\Kool\Kool\bin\Debug\netstandard2.0\Kool.deps.json
+D:\Visual Studio Projects\Kool\Kool\Kool\bin\Debug\netstandard2.0\Kool.dll
+D:\Visual Studio Projects\Kool\Kool\Kool\bin\Debug\netstandard2.0\Kool.pdb
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.App.xaml.g.cs
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.MainPage.xaml.g.cs
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.Tunniplaan.xaml.g.cs
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.Tutvustus.xaml.g.cs
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.Uudised.xaml.g.cs
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.AssemblyInfo.cs
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.dll
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.pdb
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Kool\Kool\Kool\obj\Debug\netstandard2.0\Kool.Animatsioon.xaml.g.cs

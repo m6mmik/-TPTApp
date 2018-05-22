@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Kool.Animatsioon">
+    <ContentPage.Content>
+        <StackLayout Margin="0,20,0,0">
+            <Label x:Name="character"></Label>
+            <Button x:Name="startButton" Text="Start Animation"  VerticalOptions="End" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
